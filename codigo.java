@@ -63,4 +63,4 @@ public class SyGNumerosPrimos
  
 }
 
-// Miguel Bayon Alonso
+// Verónica Serrano
